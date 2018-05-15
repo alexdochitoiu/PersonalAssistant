@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu android:id="@+id/navigation_menu"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/commands_list"
+            android:icon="@mipmap/command_list"
+            android:title="@string/commands_list" />
+
+    <item android:id="@+id/new_command"
+        android:icon="@mipmap/add_command"
+        android:title="@string/new_command" />
+</menu>

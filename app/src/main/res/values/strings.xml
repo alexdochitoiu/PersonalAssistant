@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Personal Assistant</string>
+    <string name="commands_list">Commands list</string>
+    <string name="new_command">Add a new command</string>
+    <string name="tap_to_speak">Tap on microphone \nto speak</string>
+    <string name="speak_now">Speak now</string>
+    <string name="todo">TODO</string>
+    <string name="exit">Exit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
